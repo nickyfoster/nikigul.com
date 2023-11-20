@@ -1,6 +1,6 @@
 ---
 author:
-  name: "Nikita Guliaev"
+  name: "Nikita Gulyayev"
 date: 2021-09-28
 title: 'Deploying Jenkins on AWS EKS with Helm and Ansible: A Step-by-Step Guide'
 series:

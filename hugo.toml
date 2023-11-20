@@ -53,7 +53,7 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = "Personal website"
+  description = "SRE"
   keywords = ""
   images = [""]
 
@@ -194,3 +194,9 @@ disableHugoGeneratorInject = false
     identifier = "cv"
     name       = "CV"
     url        = "cv/"
+
+[deployment]
+
+[[deployment.targets]]
+name = "production"
+URL = "s3://nikigul.com?region=us-east-1"

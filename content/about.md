@@ -1,9 +1,9 @@
 +++
 title = "About"
 date = "2014-04-09"
-aliases = ["about-us","about-hugo","contact"]
+aliases = ["about", "about-me", "contact"]
 [ author ]
-  name = "Hugo Authors"
+  name = "Nikita Gulyayev"
 +++
 
 TODO: write something about myself that might be interesting to others.

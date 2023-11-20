@@ -2,7 +2,7 @@
 title: 'Introduction'
 date: '2018-12-30T18:35:07.322Z'
 author:
-  name: 'Nikita Guliaev'
+  name: 'Nikita Gulyayev'
 ---
 
 Welcome to my personal tech blog! My name is Nikita and I am a devops engineer with a focus on automation, CI/CD, and Kubernetes.
