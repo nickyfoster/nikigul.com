@@ -48,7 +48,7 @@ disableHugoGeneratorInject = false
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
+  dateformNumTime = "2006-01-02"
   author.name = "Nikita Gulyayev"
 
   # Metadata mostly used in document's head
@@ -86,7 +86,7 @@ disableHugoGeneratorInject = false
   # generate the buttons here: https://sharingbuttons.io
   # and add them into your own `layouts/partials/sharing-buttons.html`
   #
-  enableSharingButtons = true
+  enableSharingButtons = false
 
   # Global language menu
   #
@@ -196,7 +196,6 @@ disableHugoGeneratorInject = false
     url        = "cv/"
 
 [deployment]
-
 [[deployment.targets]]
 name = "production"
 URL = "s3://nikigul.com?region=us-east-1"
