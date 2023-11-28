@@ -6,4 +6,4 @@ aliases = ["about", "about-me", "contact"]
   name = "Nikita Gulyayev"
 +++
 
-TODO: write something about myself that might be interesting to others.
+Work in progress!
