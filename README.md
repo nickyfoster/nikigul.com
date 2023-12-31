@@ -1,3 +1,16 @@
-# Personal Website
+# nikigul.com - personal website
+Personal website built with [Hugo](https://gohugo.io/).
 
-Made with [Hugo](https://gohugo.io/) and the [Hugo Hello Friend NG theme](https://github.com/rhazdon/hugo-theme-hello-friend-ng)
+## Run locally
+```bash
+hugo server -D
+```
+
+## Deployment
+### Github Actions
+Deployment pipeline is triggered on push to `main` branch.
+
+### Manual
+```bash
+hugo deploy
+```

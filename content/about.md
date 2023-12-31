@@ -6,4 +6,4 @@ aliases = ["about", "about-me", "contact"]
   name = "Nikita Gulyayev"
 +++
 
-Work in progress!
+Husband, father, and systems engineer.
