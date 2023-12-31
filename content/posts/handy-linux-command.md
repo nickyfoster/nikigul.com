@@ -7,8 +7,6 @@ series:
 - Tutorials
 ---
 
-# Handy Linux Commands
-
 ## Search for files and words
 ```
 $ find /var/www -name '*.css'
