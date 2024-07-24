@@ -59,7 +59,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Building reliable systems. Sometimes with a hammer."
+  homeSubtitle = "Developing robust systems and infrastructure for cloud and on-prem environments."
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
